@@ -1,2 +1,4 @@
 Hi there.
 first commit
+
+Making changes in the Git !
